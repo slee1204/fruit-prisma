@@ -276,3 +276,8 @@
     transform: rotate(0deg);
   }
 }
+
+.header {
+  font-family: sans-serif;
+  color: #DAD;
+}
